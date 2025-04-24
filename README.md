@@ -71,6 +71,7 @@ ecommerce-database-project/
 - **Celestine Waithera** - [GitHub](https://github.com/Celestinewanjiru)
 - **Ryan Kariuki** - [GitHub](https://github.com/raykaris)
 - **Simon Mumo** - [GitHub](https://github.com/Snap360-tech)
+- **Muburi Njuguna** - [GitHub](https://github.com/Muburii)
 
 ---
 Feel free to contribute and enhance this e-commerce database system!
